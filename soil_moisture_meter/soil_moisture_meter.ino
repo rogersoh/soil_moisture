@@ -5,7 +5,7 @@
 
 #define SCREEN_WIDTH 128 // OLED display width, in pixels
 #define SCREEN_HEIGHT 32 // OLED display height, in pixels
-#define MOISTUREREADPIN 2
+#define MOISTUREREADPIN 3
 
 
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
